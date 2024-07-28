@@ -98,7 +98,7 @@ For the lowest growth rates:
 - Create a calculated field 'Negative Growth Rate':
 ```tableau
 -[growth_rate]
-```
+
 Drag 'city' to Rows shelf.
 - Drag 'Negative Growth Rate' to Columns shelf.
 - Sort cities by 'Negative Growth Rate' (Descending).
@@ -118,7 +118,7 @@ Chart Type: Symbol Map
 Create a calculated filed 'Population Change'
 ```tableau
     [population_2024] - [population_2023]
-    ```
+
 - Drag 'country' to Detail shelf.
 - Drag 'Population Change' to Size shelf.
 - Drag 'continent' to Color shelf and 'Population Change' to Label shelf.
