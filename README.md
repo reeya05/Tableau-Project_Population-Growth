@@ -4,6 +4,10 @@ Unveiling Population Dynamics: A Tableau Journey through 2023 and 2024
 **## Project Overview**
 This project analyzes the world population growth rates for the years 2023 and 2024 using Tableau Desktop version 2024.2.0. It includes data cleaning steps, SQL queries for data extraction and transformation, and various visualizations to present the findings.
 
+**## View the Dashboard**
+You can view the Tableau dashboard online using the following link:
+[Unveiling Population Dynamics: A Tableau Journey through 2023 and 2024](https://public.tableau.com/views/WorldPopulationLatestAnalysis/PopulationTrend2023vs_2024?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 **## Data Source**
 The data used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/dataanalyst001/world-population-growth-rate-by-cities-2024). The dataset includes information on the population growth rates of the top 800 populated cities around the world for the years 2023 and 2024.
 
