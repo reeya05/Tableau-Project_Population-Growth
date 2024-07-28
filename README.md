@@ -6,7 +6,7 @@ This project analyzes the world population growth rates for the years 2023 and 2
 
 **## Data Source**
 
-The data used in this project is sourced from [Kaggle]((https://www.kaggle.com/datasets/dataanalyst001/world-population-growth-rate-by-cities-2024)). The dataset includes information on the population growth rates of the top 800 populated cities around the world for the years 2023 and 2024.
+The data used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/dataanalyst001/world-population-growth-rate-by-cities-2024). The dataset includes information on the population growth rates of the top 800 populated cities around the world for the years 2023 and 2024.
 
 **## Data Cleaning and Checking Steps**
 Before analyzing the dataset, it's crucial to perform data cleaning and checking to ensure data quality. Here are the steps used to clean and check the dataset:
